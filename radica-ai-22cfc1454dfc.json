@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "radica-ai",
-  "private_key_id": "22cfc1454dfc02ca5d6540c8dc1470bfe721a3c7",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3gkiK+JH0W/gE\njKBy/1hB0Y+90JDvdt5Iyjrwa1GubMRr9vG8ePJOrSupuaaV2fDq9Z5mIcSdZOtH\nfNdBa0+Y6QzOiYGgWNnFMDZv3aQPnm6WCubIyKlWgziov6rBea4lcSMJlvZCkOBt\nY/4M5dIuUn18sJtwgQvbtJCsedmsudZ0mubnIR5FsHojZoIWFkgujEUHrUwQYIpO\n1RYfexfeOc8K3dX+/yXZEw7VqZjr0a/m7B9owyIhLPiPWyp6EJ6yVEV8OPOV1YMg\nUNXUmKRFwi218QcA2V+SoYCDdcyP33OcPCpu+7Zh0OnfTSO5XDbHL1SuhBamUDRR\nwO6hpKUHAgMBAAECggEAF6wAu5yRB1qNxdh2Ih96PRNRXYT4DUviJLWhoL3XTY7O\nT7cNO+jGKQwBo+VE7fOtNkH06uvUNxF7oD8kbVXwcKMveb0XMZ4EiYFMpGWM8k7X\nqRdC6geogHZw6qO+3TJbGo1bnbMRlUinCrVpYjSLRlpxwZHumzaqVu8V8onNYJBn\n4tz6ymFs6zwFOjBxhqkf+humjh5Xgg4BAZuqmcisMnWiMv3SknoDEgTrqePjOitB\ngrTjwyCpAFQMLXkR5S+MpiIadADjS5UIb8iZocIshMBVNsho3dY6m0pVm/Rzyzm1\no3KzirQz1nRGzJ4ESOY91iYoOoYuKua6cBM9cU51UQKBgQD71hBp6G004kIx+czL\nOs1pa6jrT6Bn9FMzZaaYwiR+YmaQq9y7BhzSqOjRWNVw2D3BDlMTXngsmAogPU2w\nwQzfQcE3BLyJt8TaIv+svCJ2kHQyV2+gmpQV28FhnEEBB9YkyixtdQTEypdpXKoH\nqXDTQuvryRlkQI7aWlt7nAM4PQKBgQC6iwNxcl8lBeSbrC8xSBjDh/i1ih3MqOA/\nmxhwPTOIu+fvrkfbMLSdEvlQmdoeUvkFvXQW4WZj6YVOIVJ51gqJL1NED9JvLski\ndErCMCXNkQ/n5QcDQBUv/VelGiNMyF6N8+frFTnJ9m0f0xnJLydx6zh/OSnAmNfm\noUkPUZRikwKBgAHyvv/Cv42ILpDqaM4tr0cggRcI76m+NyKPp8FIxzV/F2IJIlUE\nEBcFHX/5GvWbhqbGsJfWxEE8D9/9+Wrjo3Datl7xl2/NTyWM3cN9VRrrtSpqiL+K\nUpj0sUNLDSmv4NU6Byv1msrW8mLrR5l1kxzfSKnzTVH8Od6wkkKbi17VAoGAUaJU\nN2ldyc3yZU3MuTxb2fW/GXL/53hf6nXtE/E0hDn3HiSevYVrBPIwuN0bXvngkGqA\nSyMIs+CVvcNHXJoWskJLphVmedF3o+RQcvqvEG7TDyBjGUEKBJ5RpKbzm75z4ptC\netYnHAMDblHrjudb07akWsihRO+eTAd4+YMx9JECgYEA7/59u9sVLL0D4jUjp5HM\nSajK9MwODVR6Ubbuhxnul/V5cKhZAZQAtCK9nwVF8VeMazXKrjiZBF/EUK8WUzL3\n7bMX/9GDHZoTtz+bdm3arXAbvPuFkIkityR2I8P3PWMS2iqLXxa21EhtUaoe6u5D\nEJyXWCGaPY2fvydEnU2qWks=\n-----END PRIVATE KEY-----\n",
-  "client_email": "radical-ai-quizzify@radica-ai.iam.gserviceaccount.com",
-  "client_id": "116927699250121394372",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/radical-ai-quizzify%40radica-ai.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
