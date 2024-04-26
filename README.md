@@ -1,4 +1,6 @@
 **OVERVIEW**
+
+
 The Quizify project is engineered to harness the capabilities of AI tools such as the Gemini Pro and VertexAI embedding models to develop a robust quiz generation method. 
 This method seamlessly accepts a PDF file, a designated topic, and the desired number of questions as inputs. 
 Upon ingestion, the document undergoes processing by a specialized document processor, followed by embedding, chunking, 
