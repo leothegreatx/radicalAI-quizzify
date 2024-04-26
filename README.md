@@ -15,7 +15,8 @@ To kick off the process:
 Begin by cloning the repository.
 Once cloned, navigate to the repository directory in your terminal. Then, execute the following command to swiftly install the required libraries and dependencies:
 
-```pythonpip3 install -r requirements.txt
+```python
+pip3 install -r requirements.txt
 ```
 
 Obtain the JSON key file and configure Vertex AI. Here's a step-by-step guide:
