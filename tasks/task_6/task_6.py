@@ -59,7 +59,7 @@ if __name__ == "__main__":
             "model_name": "textembedding-gecko@003",
             "project": "radica-ai",
             "location": "us-central1",
-            "key_file_path": "/Users/adigweleo/Downloads/radica-ai-22cfc1454dfc.json"
+            "key_file_path": "/Path/To/JSON/Key/File"
         }
 
         embed_client = EmbeddingClient(**embed_config)
