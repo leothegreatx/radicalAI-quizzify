@@ -169,7 +169,7 @@ if __name__ == "__main__":
         "model_name": "textembedding-gecko@003",
         "project": "radical-ai",
         "location": "us-central1",
-        "key_file_path": "/Users/adigweleo/Downloads/radical-ai-678b5d1ae214.json"
+        "key_file_path": "/Path/To/JSON/Key/File"
     }
     
     screen = st.empty()
