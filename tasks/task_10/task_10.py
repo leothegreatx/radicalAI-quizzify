@@ -9,7 +9,7 @@ from tasks.task_9.task_9 import QuizManager
 
 if __name__ == "__main__":
     
-    embed_config = { "model_name": "textembedding-gecko@003", "project": "radical-ai", "location": "us-central1", "key_file_path": "/Users/adigweleo/Downloads/radical-ai-678b5d1ae214.json" }
+    embed_config = { "model_name": "textembedding-gecko@003", "project": "radical-ai", "location": "us-central1", "key_file_path": "/Path/To/JSON/Key/File" }
     
     # Add Session State
     if 'question_bank' not in st.session_state or len(st.session_state['question_bank']) == 0:
