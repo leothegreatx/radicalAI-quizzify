@@ -20,12 +20,19 @@ pip3 install -r requirements.txt
 ```
 
 Obtain the JSON key file and configure Vertex AI. Here's a step-by-step guide:
+
 3.1. Log into the Google Cloud Console.
+
 3.2. Create a new project.
+
 3.3. Enable the Vertex AI API.
+
 3.4. Create a service account.
+
 3.5. Add the generated key.
+
 3.6. Assign the necessary permissions, such as owner, service account token creator, and Vertex AI administrator.
+
 Utilize the downloaded key and integrate its path into your program.
 Finally, execute the command:
 ```python
